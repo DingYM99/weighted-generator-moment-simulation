@@ -1,0 +1,22 @@
+{
+ "Ex1": {
+  "example": "Ex1",
+  "n_retained": 5,
+  "n_targets": 7,
+  "max_residual": 9.910256439669761e-15,
+  "min_system_rank": 5,
+  "system_size": 5,
+  "E0_det": 1.0,
+  "E0_cond": 2.618033988749895
+ },
+ "Ex2": {
+  "example": "Ex2",
+  "n_retained": 9,
+  "n_targets": 35,
+  "max_residual": 2.858837846007438e-14,
+  "min_system_rank": 9,
+  "system_size": 9,
+  "E0_det": 6.308807923967152e+23,
+  "E0_cond": 1.0
+ }
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "model": "Ex1 (n=2)",
+  "N": 2,
+  "nret": 5,
+  "nunres": 7,
+  "Ncl": 4,
+  "wall": 1.028
+ },
+ {
+  "model": "Ex1 (n=2)",
+  "N": 3,
+  "nret": 9,
+  "nunres": 9,
+  "Ncl": 5,
+  "wall": 1.452
+ },
+ {
+  "model": "Ex1 (n=2)",
+  "N": 4,
+  "nret": 14,
+  "nunres": 11,
+  "Ncl": 6,
+  "wall": 2.597
+ },
+ {
+  "model": "Ex2 (n=3)",
+  "N": 2,
+  "nret": 9,
+  "nunres": 35,
+  "Ncl": 7,
+  "wall": 3.644
+ },
+ {
+  "model": "Ex2 (n=3)",
+  "N": 3,
+  "nret": 19,
+  "nunres": 58,
+  "Ncl": 8,
+  "wall": 11.45
+ }
+]

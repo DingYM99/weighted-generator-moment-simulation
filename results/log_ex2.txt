@@ -1,0 +1,27 @@
+=== Ex2 noise (0.01, 0.05, 0.02) ===
+   seed 0 (96.4s) bad=0
+   seed 1 (70.5s) bad=0
+   seed 2 (69.4s) bad=0
+   DM       mean NRMSE=1.1911e-03 floor=6.3991e-04 cond[1.0,756623.1] (4.4s)
+   Gaussian mean NRMSE=1.1333e-03 floor=6.3991e-04 cond[1.0,702528.0] (4.4s)
+   LNA      mean NRMSE=5.9886e-03
+=== Ex2 noise (0.05, 0.25, 0.05) ===
+   seed 0 (74.8s) bad=0
+   seed 1 (69.6s) bad=0
+   seed 2 (69.1s) bad=0
+   DM       mean NRMSE=1.1611e-02 floor=3.4066e-03 cond[1.0,2281612.3] (2.7s)
+   Gaussian mean NRMSE=2.5525e-02 floor=3.4066e-03 cond[1.0,965692.3] (2.3s)
+   LNA      mean NRMSE=8.6783e-02
+   abl p=2 DM       Ncl=4 Nmu=7 NRMSE=1.4837e-03
+   abl p=2 Gaussian Ncl=4 Nmu=7 NRMSE=9.4629e-03
+   abl p=3 DM       Ncl=5 Nmu=11 NRMSE=2.1083e-03
+   abl p=3 Gaussian Ncl=5 Nmu=11 NRMSE=1.7236e-02
+   abl p=4 DM       Ncl=6 Nmu=15 NRMSE=3.1400e-03
+   abl p=4 Gaussian Ncl=6 Nmu=15 NRMSE=2.8054e-02
+   abl p=2 DM       Ncl=4 Nmu=7 NRMSE=1.1478e-02
+   abl p=2 Gaussian Ncl=4 Nmu=7 NRMSE=4.0480e-02
+   abl p=3 DM       Ncl=5 Nmu=11 NRMSE=2.0457e-02
+   abl p=3 Gaussian Ncl=5 Nmu=11 NRMSE=7.1229e-02
+   abl p=4 DM       Ncl=6 Nmu=15 NRMSE=3.4856e-02
+   abl p=4 Gaussian Ncl=6 Nmu=15 NRMSE=1.1071e-01
+   N=3 DM       Ncl=5 Nmu=9  NRMSE(orders<=2)=1.0519e-03

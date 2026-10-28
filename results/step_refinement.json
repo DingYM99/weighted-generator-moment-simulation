@@ -1,0 +1,34 @@
+[
+ {
+  "example": "Ex1 (0.15,0.15)",
+  "n_paths": 2000,
+  "seed": 20240,
+  "dt": 0.005,
+  "n_second_moments": 3,
+  "independent_max_change_over_se": 4.366677525921476,
+  "coupled_max_change_over_se": 0.2006061310002902,
+  "coupled_max_relative_change": 0.0025696343815303276,
+  "coupled_max_abs_change": 0.0056938967705733035,
+  "coupled_worst_time": 2.75,
+  "bad_paths": [
+   0,
+   0
+  ]
+ },
+ {
+  "example": "Ex2 (0.05,0.25,0.05)",
+  "n_paths": 2000,
+  "seed": 700,
+  "dt": 0.005,
+  "n_second_moments": 6,
+  "independent_max_change_over_se": 2.4524432523504456,
+  "coupled_max_change_over_se": 0.08985159544914915,
+  "coupled_max_relative_change": 0.0004271764267801949,
+  "coupled_max_abs_change": 0.5394298279111354,
+  "coupled_worst_time": 1.0,
+  "bad_paths": [
+   0,
+   0
+  ]
+ }
+]
